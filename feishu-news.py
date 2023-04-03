@@ -17,7 +17,7 @@ print("新闻数据已写入到 news.json 文件中。")
 
 
 # 配置飞书机器人 Webhook URL
-webhook_url = "https://open.feishu.cn/open-apis/bot/v2/hook/c75ea792-b208-49bb-9a02-529bdd64fbbc"
+webhook_url = "YOUR_WEBHOOK_URL"
 
 # 获取当前日期和时间
 now = datetime.now()
