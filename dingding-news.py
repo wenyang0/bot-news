@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # 配置钉钉机器人 Webhook URL
-webhook_url = "https://oapi.dingtalk.com/robot/send?access_token=cddfeb387647ce35b28e8fc88a4408ab7dc29529f765c87fbf75b8a6d49084c5"
+webhook_url = "https://oapi.dingtalk.com/robot/send?access_token=YOUR_ACCESS_TOKEN"
 
 # 获取新闻消息列表
 url = "https://api.1314.cool/getbaiduhot/"
